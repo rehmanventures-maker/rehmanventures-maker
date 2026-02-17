@@ -40,6 +40,7 @@ I am currently completing my **Information Technology Associate degree** at Nort
 - Operating Systems & Linux
 - Multithreading & Python Scripting
 - TCP/UDP Scanning & Port Analysis
+- CLI Tool Development & Encryption Techniques
 
 ---
 
@@ -60,3 +61,14 @@ I am currently completing my **Information Technology Associate degree** at Nort
 - Detects open ports and identifies common services like SSH, HTTP, HTTPS, MySQL, etc.
 - Generates detailed logs including resolved IPs, open ports, and service names
 - **Technologies:** Python, TCP/IP, Sockets, Multithreading, DNS Resolution
+
+### **Python CLI String Encryption Tool**
+- Built a command-line tool to encrypt user-input strings using multiple standards:
+  - SHA-256 (one-way hash)
+  - SHA-1 (one-way hash)
+  - Base64 (reversible)
+  - ROT13 (reversible)
+- Provides optional decryption for Base64 and ROT13 strings
+- Demonstrates understanding of cryptography, hashing, and encoding
+- **Technologies:** Python, hashlib, base64, CLI Scripting
+
